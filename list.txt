@@ -4,3 +4,5 @@ laranja
 pao
 maça
 uva
+leite 
+
